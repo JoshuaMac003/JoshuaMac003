@@ -1,6 +1,8 @@
 ## Hey 👋
 # 💫 About Me:
-IoT & Cybersecurity Specialist | Ethical Hacking | Software & Game Developer | B.Tech (IoT) | Cybersecurity & Ethical Hacking Enthusiast
+👋 Hello, I'm Joshua Chacko George, an aspiring technology professional currently pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in the Internet of Things at Christ University, Bangalore. I am also enrolled in an Honours Programme in Cyber Security and Ethical Hacking, enhancing my knowledge in digital security and ethical practices.
+
+I am deeply passionate about innovative technologies, particularly in the realms of IoT and cybersecurity, and am committed to applying my academic foundation to practical, real-world challenges. I am actively seeking opportunities to further develop my skills, contribute meaningfully to impactful projects, and grow within the tech industry.
 
 
 ## 🌐 Socials:
